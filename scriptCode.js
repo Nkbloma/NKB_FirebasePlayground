@@ -32,7 +32,7 @@ function SubmitUser(){
     
 }
 /*
-FireAuth.createUserWithEmailAndPassword("nickolik@hotmail.com", "Nb020698").catch(function(error) {
+FireAuth.createUserWithEmailAndPassword("Mich@hotmail.com", "Mb026612").catch(function(error) {
     var errorCode = error.code;
     var errorMessage = error.message;
     console.log(`${errorCode} : ${errorMessage}`)
